@@ -52,7 +52,7 @@ ocam sdn bhd,kuala lumpur,kuala lumpur,3.139,101.6869,2015, 11-50
 amazin'graze,sentul,kuala lumpur,3.179,101.691,2015, 11-50
 morco coffee,subang jaya,selangor,3.043,101.583,2015, 11-50
 hungry bunch,petaling jaya,selangor,3.1073,101.6067,2015, 11-50
-meet up cafe & bar,george town,penang,5.4141,100.3292,2015, 11-50
+meet up cafe & bar,george town,pulau pinang,5.4141,100.3292,2015, 11-50
 coffee collective sdn bhd,petaling jaya,selangor,3.1073,101.6067,2015, 1-10
 ramer far east sdn bhd,cyberjaya,selangor,2.9225,101.655,2015, 11-50
 huckleberry food  and  fare,kuala lumpur,kuala lumpur,3.139,101.6869,2015, 1-10
@@ -62,7 +62,7 @@ socialwalk | supplies ordering system for cafe / restaurants / grocery shops | v
 ayden food solution,kajang,selangor,2.9935,101.7891,2015, 1-10
 life juice malaysia,shah alam,selangor,3.0738,101.5183,2014,51-200
 kacangputéh.com,ipoh,perak,4.5975,101.0901,2014, 1-10
-love a loaf bakery & cafe,bayan lepas,penang,5.296,100.276,2014,51-200
+love a loaf bakery & cafe,bayan lepas,pulau pinang,5.296,100.276,2014,51-200
 big juiceee,batu,kuala lumpur,3.217,101.682,2014, 11-50
 eftech lifestyle sdn. bhd.,johor bahru,johor,1.4927,103.7414,2014, 11-50
 makan table,sepang,selangor,2.693,101.749,2014, 1-10
@@ -106,7 +106,7 @@ ebm sdn. bhd,kuala lumpur,kuala lumpur,3.139,101.6869,2008, 11-50
 house of taste sdn bhd,petaling jaya,selangor,3.1073,101.6067,2008,51-200
 beveco sdn bhd,petaling jaya,selangor,3.1073,101.6067,2008, 1-10
 passionate cakes,shah alam,selangor,3.0738,101.5183,2008, 1-10
-hakka connexion restaurant,george town,penang,5.4141,100.3292,2007, 1-10
+hakka connexion restaurant,george town,pulau pinang,5.4141,100.3292,2007, 1-10
 sklew biotech sdn. bhd.,alor setar,kedah,6.1248,100.3678,2007, 11-50
 elephant thai restaurant,subang jaya,selangor,3.043,101.583,2007,51-200
 teh tarik place,petaling jaya,selangor,3.1073,101.6067,2007,201-500
@@ -123,7 +123,7 @@ marco creative cuisine,petaling jaya,selangor,3.1073,101.6067,2004, 11-50
 gelatomio sdn bhd,petaling jaya,selangor,3.1073,101.6067,2004, 11-50
 asian room service sdn bhd,petaling jaya,selangor,3.1073,101.6067,2003,51-200
 rt pastry house sdn bhd,seri kembangan,selangor,3.02,101.705,2003,201-500
-exclusivitea sdn bhd,bayan lepas,penang,5.296,100.276,2003, 11-50
+exclusivitea sdn bhd,bayan lepas,pulau pinang,5.296,100.276,2003, 11-50
 nz natural sdn bhd,petaling jaya,selangor,3.1073,101.6067,2003,51-200
 the olive tree group,petaling jaya,selangor,3.1073,101.6067,2003,201-500
 big rose caterers sdn bhd,cheras,selangor,3.085,101.744,2002, 11-50
@@ -137,18 +137,18 @@ menya miyabi hokkaido ramen,bayan lepas,pulau pinang,5.296,100.276,1998, 1-10
 h&t group,kota kinabalu,sabah,5.9804,116.0735,1998, 11-50
 rotiboy bakeshoppe sdn bhd,rawang,selangor,3.321,101.575,1998,201-500
 domino's pizza malaysia & singapore,shah alam,selangor,3.0738,101.5183,1997,1001-5000
-us pizza malaysia,george town,penang,5.4141,100.3292,1997, 11-50
+us pizza malaysia,george town,pulau pinang,5.4141,100.3292,1997, 11-50
 nineteen o one sdn. bhd.,shah alam,selangor,3.0738,101.5183,1997,51-200
 health paradise sdn bhd,subang jaya,selangor,3.043,101.583,1997, 1-10
 segi seri sdn bhd,shah alam,selangor,3.0738,101.5183,1995,201-500
-pacific west malaysia,butterworth,penang,5.399,100.363,1995,51-200
+pacific west malaysia,butterworth,pulau pinang,5.399,100.363,1995,51-200
 legend of tea sdn bhd,ipoh,perak,4.5975,101.0901,1993, 11-50
 mewaholeo industries sdn bhd,pasir gudang,johor,1.4722,103.8822,1993,501-1000
 deluxe rich sdn bhd,kluang,johor,1.4927,103.7414,1993,51-200
 linaco group,shah alam,selangor,3.0738,101.5183,1992,1001-5000
 linaco group of companies,shah alam,selangor,3.0738,101.5183,1992,1001-5000
 jinwei,butterworth,pulau pinang,5.399,100.363,1992, 11-50
-enrico's raviraj sdn bhd,bukit mertajam,penang,5.363,100.466,1991,51-200
+enrico's raviraj sdn bhd,bukit mertajam,pulau pinang,5.363,100.466,1991,51-200
 yishensu group,ipoh,perak,4.5975,101.0901,1989,51-200
 nature's health products sdn. bhd,klang,selangor,3.0433,101.4469,1989, 1-10
 pacific inter-link sdn bhd (pil group),kuala lumpur,kuala lumpur,3.139,101.6869,1988,5001-10000
@@ -186,7 +186,7 @@ pertubuhan keselamatan sosial,kuala lumpur,kuala lumpur,3.139,101.6869,0, 11-50
 kelana seafood centre sdn bhd,petaling jaya,selangor,3.1073,101.6067,0, 1-10
 kejap food,petaling jaya,selangor,3.1073,101.6067,0, 1-10
 intercontinental specialty fats sdn bhd,port klang,selangor,2.998,101.392,0, 1-10
-chin heng hup kee co sdn bhd,bukit mertajam,penang,5.363,100.466,0, 1-10
+chin heng hup kee co sdn bhd,bukit mertajam,pulau pinang,5.363,100.466,0, 1-10
 absolute thai group of restaurants,kuala lumpur,kuala lumpur,3.139,101.6869,0,201-500
 lion eco chemicals sdn bhd,pasir gudang,johor,1.4722,103.8822,0, 11-50
 suntory beverage & food malaysia,petaling jaya,selangor,3.1073,101.6067,0,51-200
@@ -224,14 +224,14 @@ victorian street burger,labuan,labuan,5.2831,115.2417,0, 1-10
 etika foods marketing sdn. bhd.,kapar,selangor,3.104,101.386,0, 1-10
 aviate lounge,senai,johor,1.6,103.667,2021, 1-10
 pola dola,shah alam,selangor,3.0738,101.5183,2020, 11-50
-pinwheel resto cafe,george town,penang,5.4141,100.3292,2020, 1-10
+pinwheel resto cafe,george town,pulau pinang,5.4141,100.3292,2020, 1-10
 topglobal food and beverages sdn. bhd.,kuala lumpur,kuala lumpur,3.139,101.6869,2020,51-200
 skoozi,kuala lumpur,kuala lumpur,3.139,101.6869,2018, 11-50
 flower girl coffee,subang jaya,selangor,3.043,101.583,2017, 1-10
 new ocean world fine food city,petaling jaya,selangor,3.1073,101.6067,2016,201-500
 the street kitchen melaka,malacca,melaka,2.1896,102.2501,2016, 11-50
 howdy grillhouse,kuching,sarawak,1.5533,110.3593,2011, 11-50
-that little wine bar,george town,penang,5.4141,100.3292,2009, 11-50
+that little wine bar,george town,pulau pinang,5.4141,100.3292,2009, 11-50
 nando's chickenland malaysia sdn bhd,petaling jaya,selangor,3.1073,101.6067,1998,501-1000
 secret recipe cakes & cafe sdn bhd,petaling jaya,selangor,3.1073,101.6067,1997,501-1000
 restoran h&h sdn bhd,petaling jaya,selangor,3.1073,101.6067,1983, 11-50
@@ -240,7 +240,7 @@ q bistro nasi kandar,subang jaya,selangor,3.043,101.583,0, 1-10
 7 spice,johor bahru,johor,1.4927,103.7414,0, 1-10
 putien,subang jaya,selangor,3.043,101.583,0, 1-10
 hokkaido ramen santouka,bintang,pahang,3.145,101.711,0, 1-10
-doraku japanese restaurant,seberang jaya,penang,5.394,100.408,0, 1-10
+doraku japanese restaurant,seberang jaya,pulau pinang,5.394,100.408,0, 1-10
 shunka,taiping,perak,4.85,100.741,0, 1-10
 kim gary,subang jaya,selangor,3.043,101.583,0, 1-10
 cupcake chic sdn. bhd.,petaling jaya,selangor,3.1073,101.6067,0, 11-50
@@ -255,7 +255,7 @@ mitsui outlet park klia sepang. all right,mantin,negeri sembilan,2.948,101.916,0
 wong kok char chan teng,batu pahat,johor,1.854,102.932,0, 1-10
 restaurant rasa sayang,tanah rata,pahang,4.474,101.376,0, 1-10
 moonlight cake house sdn,johor bahru,johor,1.4927,103.7414,0, 1-10
-"dragon-i restaurant @ gurney plaza, penang",petaling jaya,selangor,3.1073,101.6067,0, 1-10
+dragon-i restaurant @ gurney plaza, penang,petaling jaya,selangor,3.1073,101.6067,0, 1-10
 dewakan restaurant,shah alam,selangor,3.0738,101.5183,0, 1-10
 oldtown white coffee,kuala terengganu,terengganu,5.329,103.137,0, 1-10
 nav family karaoke,johor bahru,johor,1.4927,103.7414,0, 1-10
@@ -263,7 +263,7 @@ kedai ayamas roasters,subang jaya,selangor,3.043,101.583,0, 1-10
 plaza merdeka,kuching,sarawak,1.5533,110.3593,0, 1-10
 restoran medan suri,kulim,kedah,5.364,100.561,0, 1-10
 i love yoo,petaling jaya,selangor,3.1073,101.6067,0, 1-10
-empire sushi,seberang jaya,penang,5.394,100.408,0, 1-10
+empire sushi,seberang jaya,pulau pinang,5.394,100.408,0, 1-10
 ny steak shack,petaling jaya,selangor,3.1073,101.6067,0, 1-10
 the rooftop bar,bintulu,sarawak,3.166,113.044,0, 1-10
 "sento hotel, keningau, sabah.",keningau,sabah,5.337,116.169,0, 1-10
